@@ -1,0 +1,12 @@
+git clone url -> descargar repositorio
+git status -> ver cambios realizados. Rojo no se ha agregado, verde si esta agregado
+git add --all -> agregar todos los cambios
+git add archivo -> agregar solo un archivo
+git commit -m "descripcion" -> Agrupar los cambios (archivos agregados en git add) en un commit
+git push -> Subir commits al repositorio
+git pull -> Traer los cambios recientes en el repositorio de internet
+git log -> Historial de commits
+git checkout identificador-commit -> Devolverme a una version del repositorio
+git checkout rama -> Ir a una rama del repositorio
+git checkout -b nombre-rama -> Crear una rama y se cambia a esta
+
